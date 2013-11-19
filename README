@@ -1,0 +1,7 @@
+A simple Mario game implemented in Java.
+
+Some special features:
+Randomly generated terrain.
+Randomly positioned bullet bills
+Deadly Chainchomp following you.
+Music.
